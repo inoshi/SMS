@@ -1,0 +1,46 @@
+.homecontainer{
+	padding: 8vh;
+}
+
+#home-panel-left{
+	overflow: auto;
+	width: 25%;
+	padding: 20px;
+	float: left;
+}
+
+#home-panel-middle{
+	overflow: auto;
+	width: 25%;
+	float: left;
+	padding:20px;
+	padding-top: 20px;
+
+}
+
+#home-panel-middle2{
+	overflow: auto;
+	width: 25%;
+	float: left;
+	padding:20px;
+	padding-top: 20px;
+
+}
+
+#home-panel-right{
+	overflow: auto;
+	width: 25%;
+	float: left;
+	padding:20px;
+}
+
+
+
+#divheading{
+	background-color: #ccccff;
+
+}
+
+#btnadd{
+	float: right;
+}
